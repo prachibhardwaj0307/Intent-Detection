@@ -47,9 +47,8 @@ Open your browser to `http://localhost:8501` to access the application.
 ## 📁 Project Structure
 
 ```
-├── bert_intent_app.py          # Main Streamlit application
+├── app.py                      # Main Streamlit application
 ├── training_dataset.csv        # Training Dataset
-├── test_app.py                 # Minimal test application
 ├── testing_dataset.csv         # Testing Dataset
 ├── num_label1.ipynb            # BERT model training notebook
 ├── bert-intent-classifier/     # Trained model directory
