@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 bert_intent_classifier/
 results/
+.DS_Store
