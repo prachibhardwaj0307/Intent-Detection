@@ -1,8 +1,3 @@
-# Create a README.md file that you can download
-readme_content = '''# BERT Intent Classifier - Streamlit App
-
-A web-based intent classification system that uses fine-tuned BERT to distinguish between "People Search" and "General Search" queries in real-time.
-
 ## 🎯 Overview
 
 This application leverages a fine-tuned BERT model to classify user queries into two categories:
