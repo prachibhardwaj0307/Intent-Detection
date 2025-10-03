@@ -1,0 +1,1038 @@
+query,true_intent,predicted_intent,probability,correct
+benefits,search,search,0.019,1
+holiday,search,search,0.057,1
+holidays,search,search,0.062,1
+workplace search,search,search,0.012,1
+ownership,search,search,0.026,1
+weekly sync,search,search,0.02,1
+401k,search,search,0.024,1
+travel policy,search,search,0.029,1
+401k benefits,search,search,0.02,1
+handbook,search,search,0.018,1
+simpplr one,search,search,0.018,1
+next holiday,search,search,0.019,1
+24.06,search,search,0.016,1
+ai assistant,search,people,0.98,0
+holiday calendar,search,search,0.024,1
+pratik,people,people,0.99,1
+app tiles,search,search,0.016,1
+rewards,search,search,0.018,1
+employee handbook,search,search,0.015,1
+recognition,search,search,0.163,1
+bonus,search,search,0.026,1
+who is pratik,people,people,0.992,1
+roadmap,search,search,0.013,1
+security package,search,search,0.014,1
+newsletter,search,search,0.023,1
+all you need to know,search,search,0.114,1
+pratik yagnik,people,people,0.989,1
+goals,search,search,0.03,1
+global holidays,search,search,0.02,1
+vpat,search,search,0.033,1
+enterprise search,search,search,0.018,1
+release,search,search,0.029,1
+pto,search,people,0.989,0
+us holidays,search,search,0.021,1
+policy,search,search,0.047,1
+24.09,search,search,0.015,1
+values,search,search,0.02,1
+simpplr values,search,search,0.013,1
+time off,search,search,0.036,1
+bala,people,search,0.58,0
+travel,search,search,0.039,1
+recharge days,search,search,0.015,1
+product,search,search,0.015,1
+recharge day,search,search,0.016,1
+workplace,search,search,0.024,1
+2024 holidays,search,search,0.021,1
+payroll,search,search,0.028,1
+video,search,search,0.054,1
+security,search,search,0.499,1
+demo,search,search,0.025,1
+product roadmap,search,search,0.013,1
+shubham,people,people,0.96,1
+dhiraj,people,people,0.987,1
+infosec,search,search,0.017,1
+reimbursement,search,search,0.017,1
+review,search,search,0.049,1
+leave,search,search,0.18,1
+promotion,search,search,0.033,1
+performance review,search,search,0.02,1
+accessibility,search,search,0.022,1
+24.06 all you need to know,search,search,0.03,1
+ceo,people,people,0.985,1
+pdf,search,search,0.024,1
+recharge,search,search,0.014,1
+24.08,search,search,0.016,1
+upgrade,search,search,0.015,1
+greenhouse,search,search,0.028,1
+release schedule,search,search,0.024,1
+upcoming holidays,search,search,0.03,1
+benefit,search,search,0.019,1
+gartner,search,search,0.268,1
+can i travel in business class,search,search,0.02,1
+simpplr sync,search,search,0.018,1
+wkly sync,search,search,0.028,1
+when is my release,search,search,0.022,1
+rva,search,search,0.41,1
+soc2,search,search,0.026,1
+vacation,search,search,0.08,1
+event,search,search,0.03,1
+pricing,search,search,0.02,1
+testing,search,search,0.024,1
+forrester,search,search,0.469,1
+onboarding,search,search,0.015,1
+code of conduct,search,search,0.045,1
+release calendar,search,search,0.014,1
+24.10,search,search,0.015,1
+holidays 2024,search,search,0.02,1
+sabika,people,people,0.981,1
+search,search,search,0.016,1
+packaging,search,search,0.017,1
+india handbook,search,search,0.026,1
+eap,search,people,0.673,0
+employee benefits,search,search,0.02,1
+paid time off,search,search,0.467,1
+expense reimbursement,search,search,0.016,1
+senthil,people,people,0.943,1
+translation,search,search,0.076,1
+tbt,search,search,0.026,1
+parag,people,people,0.803,1
+leave policy,search,search,0.016,1
+john kim,people,people,0.989,1
+mahima,people,people,0.603,1
+india holiday,search,search,0.036,1
+zoom background,search,search,0.014,1
+behaviors,search,search,0.019,1
+feed,search,search,0.027,1
+piyush,people,people,0.967,1
+virtual assistant,search,people,0.955,0
+google drive,search,search,0.015,1
+sync,search,search,0.03,1
+vision,search,search,0.023,1
+employee listening,search,search,0.034,1
+expense,search,search,0.024,1
+hiring,search,search,0.1,1
+dental benefits,search,search,0.014,1
+dental plan,search,search,0.015,1
+sales enablement,search,search,0.013,1
+template,search,search,0.018,1
+interview,search,search,0.452,1
+marketing,search,search,0.193,1
+ai,search,search,0.32,1
+who is who,search,people,0.984,0
+branding,search,search,0.033,1
+survey,search,search,0.035,1
+who is my manager,people,people,0.987,1
+2024 global holidays,search,search,0.015,1
+mission,search,search,0.029,1
+sales,search,search,0.046,1
+summit,search,search,0.028,1
+product release,search,search,0.014,1
+10 year weekly sync,search,search,0.02,1
+servicenow,search,search,0.043,1
+health insurance,search,search,0.029,1
+pinku,people,search,0.15,0
+mp4,search,search,0.022,1
+expense policy,search,search,0.015,1
+zscaler,search,search,0.05,1
+referral,search,search,0.025,1
+csm demo,search,search,0.024,1
+wcag,search,search,0.032,1
+support,search,search,0.051,1
+all hands,search,search,0.138,1
+offboarded,search,people,0.906,0
+meta,search,search,0.042,1
+native video,search,search,0.015,1
+multiple sso,search,search,0.045,1
+smart answers,search,search,0.026,1
+devops,search,search,0.044,1
+legal,search,search,0.082,1
+persona,search,search,0.033,1
+vendor approval,search,search,0.017,1
+release names,search,search,0.018,1
+global holiday,search,search,0.026,1
+forms,search,search,0.017,1
+workplace search onboarding,search,search,0.014,1
+miriam,people,search,0.283,0
+native video integration,search,search,0.021,1
+us holiday,search,search,0.096,1
+h2 goals,search,search,0.027,1
+recognition and rewards,search,search,0.024,1
+matt,people,people,0.948,1
+encryption of electronic communications,search,search,0.017,1
+india,search,search,0.216,1
+matt shea,people,people,0.987,1
+security pack,search,search,0.02,1
+offsite,search,search,0.026,1
+us holiday calendar,search,search,0.017,1
+2024 global holiday & recharge days,search,search,0.015,1
+cto,people,people,0.99,1
+calculator,search,search,0.022,1
+fiscal year,search,search,0.029,1
+retirement benefits,search,search,0.025,1
+hr,search,people,0.978,0
+401k limit,search,search,0.016,1
+company values,search,search,0.016,1
+pitch deck,search,search,0.02,1
+24.05,search,search,0.015,1
+sales deck,search,search,0.046,1
+digital signage,search,search,0.019,1
+pulse survey,search,search,0.02,1
+file,search,search,0.015,1
+amit kumar,people,people,0.99,1
+company vision,search,search,0.017,1
+aykut,people,people,0.672,1
+simpplr logo,search,search,0.018,1
+ashish,people,people,0.989,1
+allowance for work travel,search,search,0.029,1
+page,search,search,0.025,1
+code of conduct policy updates,search,search,0.033,1
+canada,search,search,0.054,1
+expert in product design,people,people,0.964,1
+dictionary,search,search,0.02,1
+production,search,search,0.033,1
+devops onboarding,search,search,0.022,1
+job openings,search,search,0.024,1
+product release q3,search,search,0.015,1
+aws demo,search,search,0.029,1
+product release sept 2024,search,search,0.016,1
+dheeraj,people,people,0.989,1
+calendar,search,search,0.032,1
+401k limits,search,search,0.016,1
+sid,people,people,0.972,1
+raghu,people,people,0.981,1
+mukund,people,people,0.964,1
+surveys,search,search,0.025,1
+somna,people,people,0.769,1
+rishabh ahuja,people,people,0.989,1
+background,search,search,0.03,1
+sushree,people,people,0.99,1
+languages,search,search,0.057,1
+welcome,search,search,0.035,1
+win report,search,search,0.019,1
+parity,search,search,0.015,1
+feedback,search,search,0.015,1
+contact info pratik yagnik,people,people,0.987,1
+india employee handbook,search,search,0.021,1
+intern,search,people,0.898,0
+vacation policy,search,search,0.019,1
+datasheet,search,search,0.014,1
+pratik email,people,people,0.989,1
+jason,people,people,0.721,1
+gunjan,people,people,0.988,1
+leaves,search,search,0.029,1
+jira,search,search,0.122,1
+vacation benefits,search,search,0.019,1
+amit,people,people,0.99,1
+matt coffey,people,people,0.792,1
+employee referral,search,search,0.022,1
+shuffle,search,search,0.036,1
+matt furlong,people,people,0.985,1
+customer success,people,search,0.022,0
+vendor onboarding,search,search,0.013,1
+kapil,people,people,0.989,1
+simpplr,search,search,0.013,1
+who can help me with sales demo,people,people,0.829,1
+holiday calendaer,search,search,0.021,1
+roles,search,search,0.15,1
+us benefits,search,search,0.023,1
+raghav,people,people,0.99,1
+24.11,search,search,0.016,1
+evan warner,people,people,0.983,1
+josh,people,people,0.622,1
+network controls,search,search,0.015,1
+sahil,people,people,0.99,1
+backyard,search,search,0.102,1
+benifits,search,search,0.147,1
+gong,search,search,0.402,1
+ceo of simpplr,people,people,0.923,1
+sharepoint integration,search,search,0.043,1
+safe workplace,search,search,0.028,1
+bugs report,search,search,0.015,1
+kim luu,people,people,0.981,1
+vandana,people,people,0.966,1
+campaign features,search,search,0.016,1
+aditya,people,people,0.989,1
+24.10 all you need to know,search,search,0.026,1
+jason flaks,people,search,0.15,0
+aws,search,people,0.926,0
+24.09 all you need to know,search,search,0.03,1
+gary,people,people,0.967,1
+johnson,people,people,0.643,1
+salary,search,search,0.03,1
+content moderation,search,search,0.012,1
+24.08 monthly release,search,search,0.012,1
+internal demo,search,search,0.02,1
+phil,search,people,0.956,0
+how many earned leaves do i get?,search,search,0.016,1
+can i travel business class,search,search,0.019,1
+icp,search,search,0.036,1
+lat,search,search,0.181,1
+dpa,search,search,0.043,1
+mark,people,people,0.648,1
+release notes,search,search,0.03,1
+what is the flexible work model philosophy,search,search,0.013,1
+vijay,people,people,0.985,1
+mackenzie,people,people,0.97,1
+compensation,search,search,0.021,1
+cpq,search,search,0.023,1
+it,search,people,0.803,0
+product marketing best practices,search,search,0.017,1
+wellness,search,search,0.039,1
+krishna,people,people,0.986,1
+next holiday for me,search,search,0.025,1
+ppl sync,search,search,0.019,1
+brand,search,search,0.131,1
+lookbook,search,search,0.014,1
+india holidays,search,search,0.026,1
+ramazan,people,search,0.217,0
+aayushi,people,people,0.891,1
+kim,people,people,0.98,1
+ask hr,search,search,0.13,1
+gainsight,search,search,0.06,1
+when is the next holiday?,search,search,0.016,1
+search functional lead,people,search,0.015,0
+anthony mazur,people,people,0.961,1
+employee handbook download,search,search,0.021,1
+nirosha,people,people,0.984,1
+24.06 demo,search,search,0.019,1
+who is mahima,people,people,0.991,1
+401k contribution limits,search,search,0.016,1
+r&d,search,search,0.024,1
+head of data science,people,people,0.982,1
+who is dan gallo?,people,people,0.99,1
+mobile,search,search,0.244,1
+product ownership,search,search,0.02,1
+reviews,search,search,0.024,1
+state of the intranet,search,search,0.013,1
+priyanka,people,people,0.987,1
+rakesh,people,people,0.987,1
+jamie,people,people,0.963,1
+naresh,people,people,0.989,1
+operation takeover,search,search,0.024,1
+ascent,search,search,0.031,1
+professional services,search,search,0.55,1
+vpn,search,search,0.074,1
+who are our executives,people,people,0.986,1
+who are our sunrun executives,people,people,0.986,1
+leadership profile page,search,search,0.282,1
+executives content,search,search,0.025,1
+leadership content page,search,search,0.024,1
+leadership profile content,search,search,0.014,1
+shubhaam,people,people,0.943,1
+pratik yagniik,people,people,0.988,1
+pritam yadnik,people,people,0.987,1
+pratik’s date of birth,people,people,0.95,1
+find pratik's social media,people,people,0.969,1
+email of pratik,people,people,0.989,1
+how 2 contact pratik by email,people,people,0.948,1
+how to contact pratik by email,people,people,0.605,1
+pratik yagnik email,people,people,0.99,1
+pratik phone,people,people,0.989,1
+pratik's contact details,people,people,0.984,1
+yagnik phone number,people,people,0.804,1
+pratik yagnik info,people,people,0.98,1
+pratik's profile,people,people,0.983,1
+who does pratik report to,people,people,0.991,1
+who do i report to?,people,search,0.222,0
+department head of engineering,people,people,0.98,1
+simpplr's ceo,people,people,0.911,1
+cpo,people,people,0.99,1
+chief product officer,people,people,0.975,1
+chief data scientist,people,people,0.984,1
+vp of engineering,people,people,0.983,1
+head of marketing,people,people,0.983,1
+ceo of simpler,people,people,0.93,1
+resarch manager,people,people,0.977,1
+user research manager,people,search,0.026,0
+pratik's peers,people,people,0.989,1
+peers pratik's is who?,people,people,0.991,1
+pratik's peerss,people,people,0.99,1
+product vps,people,people,0.906,1
+list members of finance,people,people,0.812,1
+who are the founders of finance department,people,people,0.989,1
+list members of marketing in the finance team,people,people,0.961,1
+list of finance dept. members,people,people,0.98,1
+list all members of the finance team in us along with their department head.,people,people,0.979,1
+who are the current members of the finance team?,people,people,0.97,1
+list members of outdated finance team,people,people,0.835,1
+members of data science org,people,search,0.106,0
+team budgets,search,search,0.02,1
+current project collaborations,search,search,0.028,1
+pratik's team,people,people,0.937,1
+data privacy specialist,people,people,0.986,1
+data privacy expert contact,people,people,0.983,1
+data privacy specialits,people,search,0.018,0
+expert with data privacy,people,people,0.838,1
+data science expert,people,people,0.983,1
+ds expert,people,people,0.988,1
+data science expert in india,people,search,0.23,0
+who can help me with data scienec,people,people,0.744,1
+who can help me with data science,people,people,0.912,1
+node.js expert located in india,people,search,0.029,0
+njs specialists,people,people,0.969,1
+expert in node.js,people,people,0.781,1
+top product design specialists in our design team.,people,people,0.984,1
+expert in cybersecurity,people,people,0.972,1
+who is the leading expert in cybersecurity in our organization,people,people,0.986,1
+who is an expert in cybersecurty?,people,search,0.04,0
+cs specialist,people,people,0.989,1
+who is aykut?,people,people,0.989,1
+what is kapil's role?,people,people,0.987,1
+who does kapil report to?,people,people,0.991,1
+who is kapil?,people,people,0.991,1
+pratick,people,people,0.921,1
+pratick yagnik,people,people,0.985,1
+pratik eamil,people,people,0.989,1
+pratik phoe,people,people,0.987,1
+contatc info pratick yagnik,people,search,0.465,0
+information about pratick,people,people,0.966,1
+pratick's profile,people,people,0.893,1
+who is pratick,people,people,0.99,1
+pratick’s manager,people,people,0.752,1
+who is pratick acountible to,people,people,0.99,1
+who is pratik accountable to,people,people,0.991,1
+cheif product officer,people,people,0.976,1
+pratik's squad,people,people,0.921,1
+members of pratik's team,people,people,0.981,1
+pratick's team,people,search,0.274,0
+pratick direct repots,people,search,0.043,0
+what is pratick's role,people,people,0.951,1
+who is cheif security officer?,people,people,0.991,1
+expret in cybersecurtiy,people,search,0.013,0
+who leads as ceo?,people,people,0.991,1
+who is the current ceo of  simpplr,people,people,0.981,1
+frontend design expert in the design department.,people,people,0.988,1
+who is an expret in frontend design?,people,search,0.02,0
+who is akyt?,people,people,0.987,1
+what is kapil's roel?,people,people,0.988,1
+brindha's alternate phone number,people,people,0.936,1
+who does kapil repoert to?,people,people,0.989,1
+who is kapil,people,people,0.992,1
+who is kapli?,people,people,0.988,1
+pricing note,search,search,0.016,1
+search add-on pricing,search,search,0.012,1
+premium search pricing,search,search,0.012,1
+devops onbarding,search,search,0.144,1
+data engineering 2024 strategy,search,search,0.015,1
+data enginiring 2024 strategy,search,search,0.015,1
+big data plan for 2024,search,search,0.018,1
+graphrag experimentation,search,search,0.016,1
+graphrag experimntation,search,search,0.015,1
+graph-based ai trials,search,search,0.013,1
+knowledge graph,search,search,0.013,1
+search relevancy using chunking,search,search,0.012,1
+improving search relevancy,search,search,0.011,1
+search optimization through segmentation,search,search,0.012,1
+srch rlevancy usng chnking,search,search,0.013,1
+semantic chunking,search,search,0.015,1
+samantic chunking,search,search,0.019,1
+contextual text batching,search,search,0.013,1
+semanntic chnking,search,search,0.057,1
+backend architect for search,people,search,0.013,0
+enterprise search product brief,search,search,0.012,1
+enterpraise sarch prouct brieff,search,people,0.911,0
+corporate search solutions overview,search,search,0.014,1
+tiptap editor,search,people,0.94,0
+teeptap editar,search,search,0.016,1
+tiptap editor enhancements,search,search,0.015,1
+rich text editor,search,search,0.012,1
+tiptap edtr,search,search,0.101,1
+tip tap edit,search,search,0.04,1
+roles and permissions in aws,search,search,0.011,1
+rols and permesseons in aws,search,search,0.02,1
+access control in aws,search,search,0.012,1
+rols and permssions in aws,search,search,0.017,1
+usermenu logic,search,search,0.019,1
+"usermenu items, grouping and logic",search,search,0.011,1
+usermanu logik,search,search,0.012,1
+navigation menu logic,search,search,0.014,1
+usermenoo logik,search,search,0.014,1
+usermenu group logic,search,search,0.015,1
+integrations,search,search,0.02,1
+intagration,search,search,0.025,1
+api connectors,search,search,0.013,1
+usser researhc,search,search,0.022,1
+customer feedback analysis,search,search,0.017,1
+usr reseerch,search,people,0.949,0
+userresearch,search,search,0.036,1
+adaptive tiles user research,search,search,0.013,1
+drag and drop,search,search,0.021,1
+dreg and drap,search,people,0.768,0
+click and move,search,search,0.016,1
+drg n dr0p,search,search,0.03,1
+versioning planning for new modal,search,search,0.011,1
+versoning planing for new modol,search,search,0.15,1
+what’s new modal,search,search,0.025,1
+release strategy for modal update,search,search,0.011,1
+verssioning planing fr new m0dal,search,search,0.034,1
+app tiles lld,search,search,0.038,1
+aapp tils lld,search,people,0.989,0
+app buttons lld,search,search,0.013,1
+internal slas,search,search,0.05,1
+sla calculations,search,search,0.015,1
+internal kpis,search,search,0.027,1
+internl slaz,search,search,0.183,1
+qa/testing approach,search,search,0.013,1
+cell reimbursement,search,search,0.014,1
+cell phone reimbursement policies,search,search,0.014,1
+cell cell rembursement,search,search,0.014,1
+sell reimbursement,search,search,0.014,1
+cell reimbursement policies for remote employees,search,search,0.015,1
+internet reiumbursement,search,search,0.014,1
+irp  for employee,search,search,0.015,1
+internet reiumbursement new employee,search,search,0.109,1
+internet reembursement,search,search,0.014,1
+internet reiumbursement canada,search,search,0.016,1
+leave policies,search,search,0.017,1
+location-specific internet reimbursement policies,search,search,0.012,1
+leav policies,search,search,0.015,1
+leave policies for employees,search,search,0.019,1
+onboarding for non  employee,search,search,0.02,1
+what is the onboarding process for new employees in the organization,search,search,0.013,1
+hr onboarding process,search,search,0.013,1
+onbording,search,search,0.025,1
+onbording canada  employee,search,people,0.674,0
+onbording uk employee,search,people,0.7,0
+what is the erp (expense reporting policy) for new hires,search,search,0.013,1
+what are the diversity initiatives for 401(k) plans,search,search,0.011,1
+how to submit an expense report for travel in the london office,search,search,0.014,1
+financial policies,search,search,0.028,1
+financial policies uk,search,search,0.062,1
+financail policys for budget approval.,search,search,0.016,1
+tax information,search,search,0.052,1
+current tax regulations,search,search,0.017,1
+tax information us,search,search,0.053,1
+latest tax information,search,search,0.068,1
+vendor payments,search,search,0.018,1
+what are the vendor payment procedures for 2024,search,search,0.012,1
+product overview,search,search,0.022,1
+product excellence,search,search,0.02,1
+specifications of product,search,search,0.02,1
+produkt information,search,search,0.022,1
+product informatin,search,search,0.013,1
+sales decsk,search,search,0.021,1
+sales deck from 2025,search,search,0.019,1
+sales decks,search,search,0.024,1
+sales process,search,search,0.032,1
+sales targets,search,search,0.017,1
+sales assets,search,search,0.034,1
+campaign performance,search,search,0.019,1
+campaign performance analysis,search,search,0.015,1
+campaign performanec,search,search,0.019,1
+simpplr brand guidelines,search,search,0.012,1
+brand guidelines,search,search,0.015,1
+brand book,search,search,0.031,1
+logo usage guidelines,search,search,0.012,1
+brand consistency rules,search,search,0.013,1
+market research,search,search,0.049,1
+market trends analysis,search,search,0.02,1
+market segmentation,search,search,0.013,1
+content resources,search,search,0.012,1
+best practices for corporate event planning,search,search,0.014,1
+backyard roadmap,search,search,0.016,1
+user feedback,search,search,0.012,1
+us user feedback,search,search,0.013,1
+feature requests,search,search,0.014,1
+feature requests for entraprise search,search,search,0.013,1
+competitor analysis,search,search,0.014,1
+release notes for november release,search,search,0.019,1
+release notes for search product,search,search,0.011,1
+support tickets,search,search,0.018,1
+supprot ticktes,search,search,0.036,1
+support tickets from us branch,search,search,0.019,1
+service request tickets,search,search,0.015,1
+knowledge base,search,search,0.015,1
+knowleg base,search,search,0.031,1
+knowledge base for remote employees,search,search,0.014,1
+quantum settings,search,search,0.013,1
+slas,search,search,0.524,1
+slas for us,search,search,0.117,1
+training materials,search,search,0.014,1
+training resources,search,search,0.016,1
+traning matirials,search,search,0.299,1
+technical documentation,search,search,0.024,1
+tecnical documantation,search,search,0.021,1
+system architecture,search,search,0.025,1
+systm architecture,search,search,0.019,1
+bug tracking,search,search,0.019,1
+bug tarcking with jira,search,search,0.025,1
+bug traking,search,search,0.076,1
+development standards,search,search,0.016,1
+developmant standards,search,search,0.014,1
+dev stds,search,search,0.022,1
+security policies,search,search,0.015,1
+secruity policies,search,search,0.014,1
+complince guideines,search,search,0.019,1
+compliance guidelines,search,search,0.015,1
+intellectual property,search,search,0.019,1
+ip,search,search,0.093,1
+regulatory updates of backyard,search,search,0.017,1
+benefts,search,people,0.604,0
+benefits us,search,search,0.025,1
+what benefits do employees receive,search,search,0.019,1
+401(k) benefits,search,search,0.028,1
+overview of employee health benefit packages,search,search,0.016,1
+health benefits,search,search,0.018,1
+health benefits us,search,search,0.018,1
+health benefits india,search,search,0.019,1
+retirement benefits uk,search,search,0.025,1
+pto (paid time off),search,search,0.022,1
+vacation benefits uk,search,search,0.021,1
+open enrollment,search,search,0.03,1
+401(k) plan,search,search,0.021,1
+what are the benefits of a 401(k) plan,search,search,0.012,1
+401(k) contributions,search,search,0.027,1
+401(k) contribution,search,search,0.031,1
+401(k) employer match,search,search,0.02,1
+accommodations for disabled employees,search,search,0.019,1
+workplace accommodations for employees with disabilities,search,search,0.02,1
+qae/tesing approech,search,search,0.153,1
+development strategy,search,search,0.024,1
+qaa/tessting aprch,search,search,0.325,1
+accomodations for disbaled employees,search,search,0.018,1
+guidelines for maintaining a safe work environment,search,search,0.015,1
+harassment and discrimination,search,search,0.017,1
+dealing with workplace harassment,search,search,0.017,1
+mental health benefits,search,search,0.014,1
+overview of dental benefits,search,search,0.017,1
+dental and vision benefits,search,search,0.013,1
+fsa,search,search,0.1,1
+flexible spending account us,search,search,0.022,1
+short-term disability benefits,search,search,0.014,1
+short-term disability benefits canada,search,search,0.018,1
+std benefits,search,search,0.021,1
+dependent care benefits,search,search,0.015,1
+depennt care benfit,search,search,0.018,1
+life insurance benefits for pets,search,search,0.02,1
+employee life insurance plan,search,search,0.045,1
+life insurance benefits,search,search,0.022,1
+life insurance premiums in 2010,search,search,0.025,1
+"ltdb"" (long-term disability benefits)",search,search,0.018,1
+long-term disability coverag,search,search,0.012,1
+wellness programm benfits,search,search,0.014,1
+pension plan benefits,search,search,0.032,1
+parental leave benefits,search,search,0.018,1
+bereavement leave benefits,search,search,0.018,1
+blb (bereavement leave benefits,search,search,0.016,1
+employee assistance program,search,search,0.023,1
+legal assistance benefits,search,search,0.021,1
+transportation benefits,search,search,0.014,1
+tb (transportation benefits),search,search,0.017,1
+telecommuting benefits,search,search,0.013,1
+telecommuting benefits accessible only to app managers,search,search,0.011,1
+performance bonus benefits,search,search,0.013,1
+perforamance bonuse,search,search,0.022,1
+benefits of performance bonuses,search,search,0.014,1
+relocation benefits,search,search,0.015,1
+fair competition laws,search,search,0.015,1
+partner and supplier conduct,search,search,0.023,1
+conflicts of interest,search,search,0.047,1
+"gifts, gratuities, entertainment",search,search,0.016,1
+loans,search,search,0.025,1
+politics and lobbying,search,search,0.269,1
+401(k) pre-tax vs post-tax,search,search,0.014,1
+401(k) eligibility,search,search,0.026,1
+401(k) deferral limits,search,search,0.013,1
+401(k) catch-up contributions,search,search,0.019,1
+401(k) investment options,search,search,0.025,1
+how to enroll in employee benefits,search,search,0.012,1
+eligibility criteria for health benefits,search,search,0.014,1
+tax implications of retirement benefits,search,search,0.015,1
+procedure to claim short-term disability benefits,search,search,0.018,1
+options for unused vacation days,search,search,0.014,1
+how to update beneficiary for life insurance,search,search,0.014,1
+how to claim tuition reimbursement,search,search,0.012,1
+steps to enroll in fsa,search,search,0.015,1
+how to access wellness programs,search,search,0.013,1
+criteria for long-term disability benefits,search,search,0.014,1
+steps to take parental leave,search,search,0.015,1
+how to use employee assistance program,search,search,0.016,1
+how to get legal assistance benefits,search,search,0.012,1
+how to claim transportation benefits,search,search,0.013,1
+how to apply for telecommuting benefits,search,search,0.011,1
+how to get a performance bonus,search,search,0.017,1
+steps to relocate with company support,search,search,0.017,1
+details of company pension plan,search,search,0.369,1
+how to apply for bereavement leave,search,search,0.014,1
+how to claim dependent care benefits,search,search,0.011,1
+401(k) withdrawal rules,search,search,0.017,1
+401(k) loan policy,search,search,0.021,1
+401(k) rollover process,search,search,0.017,1
+401(k) rollver process,search,search,0.016,1
+401(k) hardship withdrawal,search,search,0.02,1
+401(k) hardship withdrwal,search,search,0.028,1
+401(k) distribution options,search,search,0.015,1
+401(k) distributon options,search,search,0.023,1
+tax implications of 401(k) withdrawals,search,search,0.013,1
+tax implcations of 401(k) withdrawals,search,search,0.017,1
+employer contributions vesting schedule,search,search,0.015,1
+employer contributions vesting schedual,search,search,0.02,1
+401(k) plan benefits at retirement,search,search,0.016,1
+401k plan benefits at retirement,search,search,0.019,1
+how to change 401(k) contribution amount,search,search,0.012,1
+how to change 401(k) contrbution amount,search,search,0.013,1
+what are the medical plan options?,search,search,0.012,1
+wat are the medical plan optons?,search,search,0.033,1
+how do i enroll in benefits?,search,search,0.016,1
+how do i enrll in benfits?,search,search,0.023,1
+what is the 401k plan?,search,search,0.013,1
+what is teh 401k plan?,search,search,0.014,1
+who is eligible for benefits?,search,search,0.025,1
+whos is elgible for benfits?,search,people,0.986,0
+what are the dental plan details?,search,search,0.016,1
+what ar the dental pln details?,search,search,0.022,1
+how do i submit an fsa claim?,search,search,0.013,1
+how do i submt an fsa cliam?,search,search,0.041,1
+how do i add a dependent to my insurance?,search,search,0.013,1
+hw do i ad a dependent to my insurance?,search,search,0.056,1
+how do i access mental health benefits?,search,search,0.013,1
+how do i axess mental heath benfits?,search,people,0.831,0
+what is the life insurance policy?,search,search,0.013,1
+what is the lie insurance polciy?,search,search,0.018,1
+what are the hsa contribution limits?,search,search,0.012,1
+how do i contact the benefits provider?,search,search,0.013,1
+how do i claim commuter benefits for parking?,search,search,0.016,1
+what is covered under the vision plan?,search,search,0.012,1
+what is the policy for domestic partner benefits?,search,search,0.011,1
+what are the contribution amounts for the hsa plan?,search,search,0.012,1
+how do i apply for hospital indemnity coverage?,search,search,0.012,1
+medical plans,search,search,0.017,1
+benefits enrollment,search,search,0.018,1
+401k details,search,search,0.016,1
+benefits eligibility,search,search,0.015,1
+dental plans,search,search,0.015,1
+vision plans,search,search,0.035,1
+life insurance policy,search,search,0.124,1
+long-term disability,search,search,0.02,1
+flexible spending account (fsa),search,search,0.018,1
+commuter benefits,search,search,0.018,1
+hospital indemnity coverage,search,search,0.013,1
+critical illness insurance,search,search,0.033,1
+accident insurance,search,search,0.021,1
+employee assistance program (eap),search,search,0.018,1
+travel assistance,search,search,0.035,1
+care concierge,search,people,0.934,0
+medcal plans,search,search,0.495,1
+benfits enrollment,search,search,0.024,1
+401k detals,search,search,0.025,1
+commuter benfits,search,search,0.02,1
+hospitl indemnity coverage,search,search,0.014,1
+criticl illness insurance,search,search,0.023,1
+accdent insurance,search,search,0.036,1
+mentl health benefits,search,search,0.017,1
+emploee assistance program (eap),search,search,0.025,1
+welless programs,search,search,0.058,1
+trvel assistance,search,search,0.407,1
+care conciege,search,search,0.037,1
+netwok security,search,search,0.45,1
+netwrk contrls,search,search,0.014,1
+web filtiring,search,search,0.012,1
+information transfer,search,search,0.022,1
+information tranfer,search,search,0.019,1
+electronic messaging,search,search,0.027,1
+electronc mesaging,search,search,0.018,1
+mesaging on web,search,search,0.018,1
+non-disclosure agreements,search,search,0.016,1
+nda,search,people,0.61,0
+disclosure agreements,search,search,0.014,1
+non-disclosure agreemnts,search,search,0.018,1
+non-disclosure agremnts,search,search,0.016,1
+security of network services,search,search,0.026,1
+securty of network servces,search,search,0.037,1
+segregation in networks,search,search,0.015,1
+segregation in netwrks,search,search,0.018,1
+transfer policies and procedures,search,search,0.016,1
+transfr policies and procedures,search,search,0.014,1
+agreements of information transfer,search,search,0.034,1
+agreemnts of information tranfer,search,search,0.024,1
+transfer of personal data,search,search,0.015,1
+encryption for electronic messaging,search,search,0.013,1
+encrypttion for electronic messagin,search,search,0.033,1
+confidentiality agreements,search,search,0.027,1
+confidental agreements,search,search,0.015,1
+confgurations and controls on all hosts,search,search,0.012,1
+processes for server installation,search,search,0.012,1
+procces for server installation,search,search,0.012,1
+security mechanisms in network agreements,search,search,0.013,1
+security mechanisms in netwrk agreements,search,search,0.012,1
+security zones for internal data networks,search,search,0.013,1
+security zones for interal data networks,search,search,0.013,1
+what are recharge days,search,search,0.015,1
+how do i check my stock options,search,search,0.013,1
+how to get reimbursed for cell phone expenses,search,search,0.012,1
+how does the employee referral program work,search,search,0.012,1
+how does the employe ref program work,search,search,0.012,1
+what is the internal transfer policy,search,search,0.013,1
+internal transfer policy,search,search,0.019,1
+what is the global holiday schedule,search,search,0.018,1
+what is a recharge day,search,search,0.015,1
+when is the upcoming recharge day,search,search,0.016,1
+what is the flexible work mode,search,search,0.013,1
+2024 global holiday & recharge days schedule,search,search,0.016,1
+2024 india holiday & recharge days schedule,search,search,0.021,1
+how to get annual cell phone & internet reimbursement,search,search,0.013,1
+how to get annual cell phone & internet reimbursement india,search,search,0.015,1
+detailed information on employee referral program,search,search,0.027,1
+detailed information on employee referral program for india,search,search,0.023,1
+detailed information on employee referral program of high level,search,search,0.1,1
+process for employment verification requests,search,search,0.014,1
+process for voe,search,search,0.012,1
+resources for uk employees,search,search,0.027,1
+details on internal transfer policy,search,search,0.032,1
+no harassment policy,search,search,0.017,1
+no harassment policy india,search,search,0.016,1
+posh,search,search,0.057,1
+workplace safety rules,search,search,0.016,1
+california workplace violence protection plan,search,search,0.018,1
+environmental impact policy,search,search,0.019,1
+environmental impact policy for india office,search,search,0.042,1
+conflict of interest policy,search,search,0.026,1
+coi policy,search,search,0.035,1
+reporting a concern,search,search,0.022,1
+reporting a concern regarding benefit,search,search,0.018,1
+reporting a concern regarding car purchase benefit,search,search,0.021,1
+retaliation policy,search,search,0.016,1
+how to report a code of conduct violation,search,search,0.013,1
+how to report a coc violation,search,search,0.012,1
+compliance with laws,search,search,0.024,1
+compliance with laws of india location,search,search,0.02,1
+foreign corrupt practices act guidelines,search,search,0.028,1
+fcpa guidelines,search,search,0.015,1
+export control policy,search,search,0.026,1
+immigration laws compliance,search,search,0.02,1
+acceptable gifts and gratuities,search,search,0.019,1
+aceptble gfts and grtuities,search,search,0.014,1
+what are acceptable gifts and gratuities from employee,search,search,0.015,1
+partnr and suplier condct expctations,search,search,0.018,1
+government employee interaction guidelines,search,search,0.014,1
+indian government employee interaction guidelines,search,search,0.016,1
+how to handle conflicts of interest,search,search,0.019,1
+how to handle coi,search,search,0.017,1
+details on fair competition laws,search,search,0.019,1
+details on fair competition laws in india,search,search,0.022,1
+employee productivity,search,search,0.015,1
+employe prodctivity,search,search,0.014,1
+it efficiency,search,search,0.014,1
+it eficincy,search,search,0.023,1
+operational costs,search,search,0.021,1
+travel reimbursement policy,search,search,0.017,1
+travel rembrsement plicy,search,search,0.019,1
+expense reimbursement policy,search,search,0.014,1
+expnse reimbrsement plicy,search,search,0.021,1
+cell phone allowance,search,search,0.09,1
+cell phne allwance,search,search,0.023,1
+internet allowance,search,search,0.017,1
+internt alownce,search,people,0.97,0
+mileage reimbursement,search,search,0.015,1
+milege reimbrsmnt,search,search,0.043,1
+mileage policy,search,search,0.014,1
+parking and toll reimbursement,search,search,0.017,1
+parking and toll policy,search,search,0.018,1
+travel policy to travel outside country with parents,search,search,0.027,1
+how to get reimbursed for travel,search,search,0.012,1
+employee meal reimbursement,search,search,0.015,1
+business entertainment expenses,search,search,0.02,1
+busnes entrtinmnt expnses,search,search,0.478,1
+business entertainment expenses for office party,search,search,0.017,1
+home office setup reimbursement,search,search,0.015,1
+professional membership reimbursement,search,search,0.021,1
+training and development expenses,search,search,0.026,1
+social gathering reimbursement,search,search,0.013,1
+social gathring reimbrsment,search,search,0.018,1
+social gathering reimbursement for 500 people,search,search,0.016,1
+non-allowable expenses,search,search,0.015,1
+detailed travel reimbursement process,search,search,0.015,1
+detailed travel reimbursement process for internat,search,search,0.023,1
+detailed travel reimbursement process for car purchase,search,search,0.018,1
+steps to claim cell phone allowance,search,search,0.016,1
+step to clim cell phne alwance,search,search,0.016,1
+eligibility for internet allowance,search,search,0.019,1
+eligibility for car purchase allowance,search,search,0.018,1
+mileage policy details,search,search,0.014,1
+car mileage policy details,search,search,0.015,1
+how to claim parking and toll expenses,search,search,0.012,1
+how to clim parkng and toll expnss,search,search,0.013,1
+reimbursement for extended stays,search,search,0.019,1
+reimbursement for extended stays in goa,search,search,0.052,1
+employee meals while traveling,search,search,0.019,1
+employee meals while traveling to america,search,search,0.022,1
+reporting procedures for expenses,search,search,0.017,1
+requesting exceptions to policy,search,search,0.014,1
+cac,search,search,0.337,1
+site for marketing team,search,search,0.032,1
+m@rket team sites,search,search,0.015,1
+marketing team site,search,search,0.033,1
+technical support site,search,search,0.027,1
+techncal suppart site,search,search,0.021,1
+techie site,search,search,0.02,1
+product team site,search,search,0.021,1
+proddct site,search,search,0.013,1
+where do i see product team news,search,search,0.015,1
+usa site,search,search,0.021,1
+ussa site,search,search,0.032,1
+site for usa related news,search,search,0.019,1
+playground,search,search,0.025,1
+site for playground,search,search,0.022,1
+playgroud,search,search,0.017,1
+product testing site,search,search,0.025,1
+prodct tsting site,search,search,0.016,1
+site for it updates,search,search,0.015,1
+company site,search,search,0.022,1
+sprint resource plan,search,search,0.014,1
+what are aws lambda basics,search,search,0.014,1
+performance testing,search,search,0.014,1
+show me the metrics for the zeus sprint,search,search,0.014,1
+what is the new product launch ga readiness plan,search,search,0.012,1
+performance measure with flow,search,search,0.014,1
+details regarding the migration of global css to css modules,search,search,0.011,1
+information about employee listening,search,search,0.025,1
+what are the steps for running lambda build scripts on a windows machine?,search,search,0.011,1
+building high performance teams,search,search,0.019,1
+site files migration to react components,search,search,0.011,1
+what are the cost estimations for native video on aws,search,search,0.011,1
+integration with glean enterprise search,search,search,0.012,1
+product brief,search,search,0.015,1
+multi lingual support,search,search,0.033,1
+release scheduel,search,search,0.019,1
+us summer holidays,search,search,0.019,1
+holidy calendar,search,search,0.019,1
+weekley sync,search,people,0.979,0
+recognition launch,search,search,0.021,1
+recognition launch event,search,search,0.015,1
+launch of recognition program,search,search,0.019,1
+recog. launch,search,search,0.012,1
+recogntion lauch,search,people,0.955,0
+reimbursement form,search,search,0.015,1
+mission of simpplr,search,search,0.023,1
+misison,search,people,0.792,0
+compnay vission,search,search,0.104,1
+vision plan,search,search,0.017,1
+vison plan of simpplr,search,search,0.063,1
+expense reimbursement in india,search,search,0.019,1
+expnse reimbrsment,search,search,0.045,1
+leave application,search,search,0.02,1
+absence request scroll,search,search,0.014,1
+health insurance of mother,search,search,0.061,1
+employee well-being and burnout prediction,search,search,0.013,1
+us open enrollment,search,search,0.024,1
+company benefits program,search,search,0.019,1
+compny benfits prgram,search,search,0.48,1
+allhands,search,search,0.041,1
+allh@nds,search,search,0.033,1
+faqs,search,search,0.015,1
+employee onbording in india (,search,search,0.043,1
+acronyms,search,search,0.016,1
+401k login of standard user,search,search,0.012,1
+video for product design training,search,search,0.018,1
+vidoe for prduct deign trianin,search,search,0.262,1
+paid time off balance,search,search,0.036,1
+paid time off balnce,search,people,0.952,0
+upcomng holidays,search,search,0.025,1
+upcoming holidays in us,search,search,0.028,1
+engineering weekly priorities,search,search,0.029,1
+release name,search,search,0.025,1
+relase nme,search,search,0.025,1
+access to gong,search,search,0.02,1
+forthcoming celebration dates,search,search,0.021,1
+upcoming holydays 2024 list,search,search,0.017,1
+how to refer an employee for mechnical engineer,search,search,0.061,1
+allowance for meals,search,search,0.027,1
+allowance for meals in us,search,search,0.021,1
+hsa contributions,search,search,0.019,1
+contributions to my hsa,search,search,0.168,1
+company valuse,search,search,0.08,1
+corporate principles and ethics,search,search,0.033,1
+company v@lues document,search,search,0.022,1
+who can help me with ds,people,people,0.976,1
+who can help me with user experience,people,people,0.926,1
+who can help me with ui/ux,people,people,0.642,1
+remote work policy,search,search,0.015,1
+access my paystubs,search,search,0.031,1
+update direct deposit information,search,search,0.044,1
+access my life insurance beneficiaries,search,search,0.151,1
+wellness workshop,search,search,0.017,1
+health insurance coverage details 2024,search,search,0.016,1
+health insurance coverage details 2023,search,search,0.016,1
+bonus payment date,search,search,0.016,1
+sales commission structure,search,search,0.019,1
+equipment purchase reimbursement process,search,search,0.014,1
+equipment purchase reimbursement process in india,search,search,0.017,1
+bonus taxation guidelines,search,search,0.014,1
+california health insurance options,search,search,0.019,1
+india health insurance options,search,search,0.024,1
+texas dental plan providers,search,search,0.022,1
+carta’s equity education center,search,search,0.035,1
+headquarter wellness activities,search,search,0.022,1
+london office employee handbook,search,search,0.019,1
+conflict of interest,search,search,0.036,1
+coi,search,search,0.064,1
+bugs,search,search,0.035,1
+bugs reprt,search,search,0.016,1
+wellness benefits,search,search,0.019,1
+wellnes bnefits,search,search,0.258,1
+dental insurance,search,search,0.031,1
+dental insurance implants,search,search,0.018,1
+dental insurance root canal,search,search,0.023,1
+life insurance,search,search,0.041,1
+2024 holiday schedule,search,search,0.018,1
+holidays in april,search,search,0.026,1
+holidays in november 2024,search,search,0.022,1
+employee handbook for us,search,search,0.015,1
+company manual,search,search,0.021,1
+travel expense,search,search,0.017,1
+travel expense for going in unofficial trip,search,search,0.018,1
+reimbursement form for office setup,search,search,0.016,1
+human resources policies,search,search,0.022,1
+linkedin learning,search,search,0.014,1
+likedin lerning,search,people,0.984,0
+learning center,search,search,0.025,1
+lernng center,search,search,0.051,1
+zoom backgrund,search,search,0.021,1
+zoom bg,search,search,0.02,1
+zom background,search,search,0.062,1
+emal sgnature,search,search,0.023,1
+signature,search,search,0.037,1
+bereavement,search,search,0.059,1
+lunch menu,search,search,0.022,1
+what values employee should have,search,search,0.02,1
+company history,search,search,0.227,1
+support sop: out of office,search,search,0.054,1
+out of off!ce details,search,search,0.061,1
+it request,search,search,0.024,1
+it service request,search,search,0.013,1
+it request form,search,search,0.013,1
+technical assistance inquiry,search,search,0.02,1
+it service request form,search,search,0.013,1
+set up company email,search,search,0.054,1
+free parking for new employees,search,search,0.023,1
+parking pass for new employees,search,search,0.016,1
+returning to work after maternity leave,search,search,0.462,1
+returing to work after maternity leve,search,search,0.417,1
+take time off for mental health,search,search,0.032,1
+vacation days,search,search,0.022,1
+add dependents to insurance,search,search,0.017,1
+add dpndents to insurance,search,search,0.013,1
+how to retire,search,search,0.014,1
+new hire onboarding,search,search,0.019,1
+employee benefits for new hires,search,search,0.021,1
+employee bnefits for new hires,search,search,0.018,1
+time off allocation,search,search,0.02,1
+probation period policy,search,search,0.016,1
+words and concepts used in simpplr,search,search,0.012,1
+latest weekly sync,search,search,0.016,1
+weekly recap,search,search,0.015,1
+weekly sync june,search,search,0.027,1
+all you need to know page,search,search,0.088,1
+ayntk june,search,search,0.066,1
+user research study,search,search,0.014,1
+feedback survey,search,search,0.015,1
+company achievement,search,search,0.026,1
+company priorities,search,search,0.016,1
+scrum of scrum meeting notes,search,search,0.021,1
+sos meeting notes,search,search,0.022,1
+sos weekly update,search,search,0.026,1
+sos call,search,people,0.845,0
+sos change log,search,search,0.012,1
+quarterly business review,search,search,0.041,1
