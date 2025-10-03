@@ -1,4 +1,5 @@
-# BERT Intent Classifier - Streamlit App
+# Create a README.md file that you can download
+readme_content = '''# BERT Intent Classifier - Streamlit App
 
 A web-based intent classification system that uses fine-tuned BERT to distinguish between "People Search" and "General Search" queries in real-time.
 
@@ -46,8 +47,11 @@ The model achieves **99.2% accuracy** on validation data with precision and reca
 
 ```bash
 # Run the full BERT integration
-streamlit app.py
+streamlit run bert_intent_app.py
 
+# Or run the demo version (keyword-based)
+streamlit run simple_app.py
+```
 
 Open your browser to `http://localhost:8501` to access the application.
 
@@ -117,7 +121,7 @@ The default classification threshold is 0.6. Queries with probability > 0.6 are 
 - Modify the default in the code: `threshold=0.6`
 
 ### Adding New Sample Queries
-Edit the `sample_queries` list in `app.py`:
+Edit the `sample_queries` list in `bert_intent_app.py`:
 ```python
 sample_queries = [
     ("Your new query", "👥 or 🔎"),
@@ -171,15 +175,32 @@ The app attempts to load models in this order:
 - Verify model was saved correctly after training
 
 **Blank Streamlit Interface**
-- Try different port: `streamlit run app.py --server.port 8502`
+- Run `streamlit run test_app.py` first to verify Streamlit installation
+- Try different port: `streamlit run bert_intent_app.py --server.port 8502`
 - Clear browser cache or try incognito mode
 
 **Import Errors**
-- Install all requirements
+- Install all requirements: `pip install -r requirements.txt`
 - Check Python version compatibility (3.7+)
+- Ensure virtual environment is activated
 
 ### Support
 For issues or questions, please create an issue in the repository or contact the development team.
 
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
 
 **Built with ❤️ using BERT, Streamlit, and PyTorch**
+'''
+
+# Save the README.md file
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(readme_content)
+
+print("✅ README.md file created successfully!")
+print("📁 File location: README.md")
+print("📝 File size:", len(readme_content), "characters")
+print("\nYou can now find the README.md file in your current directory and use it for your project.")
