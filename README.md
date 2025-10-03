@@ -48,10 +48,10 @@ Open your browser to `http://localhost:8501` to access the application.
 
 ```
 ├── bert_intent_app.py          # Main Streamlit application
-├── simple_app.py               # Demo version without BERT model
+├── training_dataset.csv        # Training Dataset
 ├── test_app.py                 # Minimal test application
-├── requirements.txt            # Python dependencies
-├── num_label1.ipynb           # BERT model training notebook
+├── testing_dataset.csv         # Testing Dataset
+├── num_label1.ipynb            # BERT model training notebook
 ├── bert-intent-classifier/     # Trained model directory
 │   ├── config.json
 │   ├── pytorch_model.bin
